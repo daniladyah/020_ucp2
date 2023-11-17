@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ucp2</string>
+    <string name="next" />
+    <string name="btn_submit" />
+    <string name="confirm">\n</string>
+    <string name="cancel" />
+</resources>
